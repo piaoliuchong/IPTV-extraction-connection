@@ -1,5 +1,10 @@
 # IPTV-tiqu
-  通过ctrl+a全选    ctrl+v粘贴来进行提取  \n
+<html>
+<head>
+<title>转换</tile>
+
+
+通过ctrl+a全选    ctrl+v粘贴来进行提取  \n
 
 示例网站：http://iptv.0536.work.gd \n
 iptv搜索网址：\n
